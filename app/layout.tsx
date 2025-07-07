@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'PreplexAi App',
+  description: 'Sonar Model by Preplexity',
+  generator: 'xtfaisal07',
 }
 
 export default function RootLayout({
